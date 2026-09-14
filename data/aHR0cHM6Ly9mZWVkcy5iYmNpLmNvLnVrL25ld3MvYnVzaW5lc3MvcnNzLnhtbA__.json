@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://feeds.bbci.co.uk/news/business/rss.xml",
+  "title": "BBC News",
+  "description": "BBC News - Business",
+  "link": "https://www.bbc.co.uk/news/business",
+  "items": [
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 22:10:10 GMT",
+      "isoDate": "2026-09-14T22:10:10.000Z",
+      "content": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "contentSnippet": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "creator": "",
+      "summaries": {
+        "zh": "安索普公司联合创始人杰克·克拉克表示，虽然大多数实验室都有不同的“杀开关”机制，但这可能需要成为一项强制性要求。他强调，确保人工智能系统的安全性和可控性至关重要。",
+        "en": "Jack Clark, co-founder of Anthropic, suggests that an AI \"kill switch\" should potentially be mandatory. He notes that while most laboratories have their own methods for disabling AI systems, establishing a standardized requirement could enhance safety and control over AI technologies."
+      },
+      "summary": "安索普公司联合创始人杰克·克拉克表示，虽然大多数实验室都有不同的“杀开关”机制，但这可能需要成为一项强制性要求。他强调，确保人工智能系统的安全性和可控性至关重要。"
+    },
+    {
+      "title": "Government set to nationalise troubled steel firm",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 19:06:46 GMT",
+      "isoDate": "2026-09-14T19:06:46.000Z",
+      "content": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
+      "contentSnippet": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
+      "creator": "",
+      "summaries": {
+        "zh": "政府计划对陷入困境的钢铁公司进行国有化。今年早些时候，位于南约克郡和西米德兰兹的SSUK工厂暂停了生产。",
+        "en": "The government plans to nationalize the troubled steel firm SSUK, which halted production at its sites in South Yorkshire and the West Midlands earlier this year."
+      },
+      "summary": "政府计划对陷入困境的钢铁公司进行国有化。今年早些时候，位于南约克郡和西米德兰兹的SSUK工厂暂停了生产。"
+    },
+    {
+      "title": "Petrol and diesel prices hit highest since 2022",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 11:42:52 GMT",
+      "isoDate": "2026-09-14T11:42:52.000Z",
+      "content": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+      "contentSnippet": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+      "creator": "",
+      "summaries": {
+        "zh": "根据RAC的报告，由于油价持续高企，汽油和柴油的价格已达到2022年以来的最高水平，车辆加油的成本再次上升。",
+        "en": "Petrol and diesel prices have reached their highest levels since 2022, as reported by the RAC. The increase in fuel costs is attributed to persistently high oil prices."
+      },
+      "summary": "根据RAC的报告，由于油价持续高企，汽油和柴油的价格已达到2022年以来的最高水平，车辆加油的成本再次上升。"
+    },
+    {
+      "title": "Rent rises set to speed up in gloomy forecast for tenants",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 23:05:45 GMT",
+      "isoDate": "2026-09-13T23:05:45.000Z",
+      "content": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+      "contentSnippet": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+      "creator": "",
+      "summaries": {
+        "zh": "根据房地产网站Zoopla的预测，到12月，租金预计将每年上涨4%至5%。这一预期反映了对租户的悲观前景。",
+        "en": "Rent prices are projected to increase by 4% to 5% annually by December, according to the property website Zoopla. This forecast indicates a challenging outlook for tenants as rental costs continue to climb."
+      },
+      "summary": "根据房地产网站Zoopla的预测，到12月，租金预计将每年上涨4%至5%。这一预期反映了对租户的悲观前景。"
+    },
+    {
+      "title": "Heading off to uni? Here's what to insure against theft",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 08:13:56 GMT",
+      "isoDate": "2026-09-14T08:13:56.000Z",
+      "content": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "contentSnippet": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "creator": "",
+      "summaries": {
+        "zh": "新生在大学期间应考虑如何保护个人物品并确保投保。建议学生了解保险政策，特别是针对盗窃的保障措施，以确保财物安全。选择合适的保险计划可以帮助学生在遭遇盗窃时获得赔偿，减少经济损失。",
+        "en": "The article advises new university students on the importance of insuring their belongings against theft. It highlights key considerations for students to ensure their possessions are protected, emphasizing the need for adequate insurance coverage. Students are encouraged to evaluate their personal items and choose appropriate insurance policies to safeguard against potential theft during their time at university."
+      },
+      "summary": "新生在大学期间应考虑如何保护个人物品并确保投保。建议学生了解保险政策，特别是针对盗窃的保障措施，以确保财物安全。选择合适的保险计划可以帮助学生在遭遇盗窃时获得赔偿，减少经济损失。"
+    },
+    {
+      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 22:01:39 GMT",
+      "isoDate": "2026-09-14T22:01:39.000Z",
+      "content": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
+      "contentSnippet": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
+      "creator": "",
+      "summaries": {
+        "zh": "威尔士的酒吧、酒店和健身房将于四月起享受30%的商业税减免。然而，较大规模的企业将支付更高的税率，以资助这一变更。",
+        "en": "Pubs, hotels, and gyms in Wales will receive a 30% reduction in business rates starting in April. However, larger businesses will face increased rates to help finance these cuts."
+      },
+      "summary": "威尔士的酒吧、酒店和健身房将于四月起享受30%的商业税减免。然而，较大规模的企业将支付更高的税率，以资助这一变更。"
+    },
+    {
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 14:22:55 GMT",
+      "isoDate": "2026-09-14T14:22:55.000Z",
+      "content": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "contentSnippet": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "creator": "",
+      "summaries": {
+        "zh": "英国首相伯纳姆呼吁在商业运作中需要进行“文化转变”，强调政府应支持冒险者。然而，他的政府因增加商业成本而受到批评。",
+        "en": "UK Prime Minister Burnham emphasizes the need for a \"culture shift\" in business practices, advocating for government support for risk-takers. However, his administration faces criticism for raising business costs, which may hinder the very entrepreneurial spirit it seeks to promote."
+      },
+      "summary": "英国首相伯纳姆呼吁在商业运作中需要进行“文化转变”，强调政府应支持冒险者。然而，他的政府因增加商业成本而受到批评。"
+    },
+    {
+      "title": "MPs and Lords call for new law to address AI threat to human rights",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 08:07:08 GMT",
+      "isoDate": "2026-09-14T08:07:08.000Z",
+      "content": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say. ",
+      "contentSnippet": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+      "creator": "",
+      "summaries": {
+        "zh": "英国议员呼吁制定新法律，以应对人工智能对人权的威胁。他们认为现有法律无法有效应对人工智能带来的风险。",
+        "en": "UK MPs and Lords are advocating for new legislation to tackle the threats that artificial intelligence poses to human rights. They argue that current laws are inadequate to address these risks effectively."
+      },
+      "summary": "英国议员呼吁制定新法律，以应对人工智能对人权的威胁。他们认为现有法律无法有效应对人工智能带来的风险。"
+    },
+    {
+      "title": "Carney gambles on the world's biggest investors betting on Canada",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 19:29:12 GMT",
+      "isoDate": "2026-09-14T19:29:12.000Z",
+      "content": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+      "contentSnippet": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+      "creator": "",
+      "summaries": {
+        "zh": "在与美国的贸易战中，加拿大总理利用其在全球金融界的关系，邀请了一些世界上最大的投资者前往加拿大。",
+        "en": "In response to a trade war with the US, Canada's Prime Minister is actively engaging with global finance leaders by inviting major investors to the country. This strategy aims to strengthen Canada's economic position and attract significant foreign investment amidst ongoing trade tensions."
+      },
+      "summary": "在与美国的贸易战中，加拿大总理利用其在全球金融界的关系，邀请了一些世界上最大的投资者前往加拿大。"
+    },
+    {
+      "title": "Amazon pauses work with cargo firm after fatal crash",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 02:40:06 GMT",
+      "isoDate": "2026-09-14T02:40:06.000Z",
+      "content": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "contentSnippet": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "creator": "",
+      "summaries": {
+        "zh": "亚马逊在一起致命事故后暂停与货运公司21 Air的合作。该公司的一架飞机在迈阿密国际机场的跑道上滑出，撞上了几辆汽车。",
+        "en": "Amazon has suspended its partnership with a cargo firm following a fatal incident involving a 21 Air-operated jet. The aircraft overshot the runway at Miami International Airport and collided with multiple vehicles."
+      },
+      "summary": "亚马逊在一起致命事故后暂停与货运公司21 Air的合作。该公司的一架飞机在迈阿密国际机场的跑道上滑出，撞上了几辆汽车。"
+    },
+    {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "isoDate": "2026-09-13T18:49:37.000Z",
+      "content": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "contentSnippet": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "creator": "",
+      "summaries": {
+        "zh": "特朗普淡化了对人工智能风险的警告，称这是与中国竞争中的“负面力量”所传播的担忧。他表示，这些担忧涉及“不会发生的事情”。",
+        "en": "In a recent statement, President Trump dismissed warnings about the risks associated with artificial intelligence, suggesting that concerns are being raised by \"negative forces\" regarding scenarios that he believes are unlikely to occur. He emphasized the importance of maintaining a competitive edge over China in the AI sector, implying that fears surrounding AI should not hinder progress and innovation."
+      },
+      "summary": "特朗普淡化了对人工智能风险的警告，称这是与中国竞争中的“负面力量”所传播的担忧。他表示，这些担忧涉及“不会发生的事情”。"
+    },
+    {
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 14:53:40 GMT",
+      "isoDate": "2026-09-13T14:53:40.000Z",
+      "content": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "contentSnippet": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "creator": "",
+      "summaries": {
+        "zh": "前Anthropic研究员在接受BBC采访时表示，AI工作人员对人类未来感到“真正的恐惧”。此言论正值该公司负责人呼吁减缓技术发展的背景下，指出存在“严重”风险。",
+        "en": "A former researcher from the AI firm Anthropic expressed concerns about the future of humanity due to advancements in artificial intelligence, stating that AI staff are \"genuinely frightened.\" This statement aligns with the company's leadership, who has urged for a slowdown in AI development, highlighting \"serious\" risks associated with the technology."
+      },
+      "summary": "前Anthropic研究员在接受BBC采访时表示，AI工作人员对人类未来感到“真正的恐惧”。此言论正值该公司负责人呼吁减缓技术发展的背景下，指出存在“严重”风险。"
+    },
+    {
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT",
+      "isoDate": "2026-09-13T09:05:10.000Z",
+      "content": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "contentSnippet": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "creator": "",
+      "summaries": {
+        "zh": "近期关于人工智能危险的严厉警告在硅谷的高管和投资者中引发了怀疑。尽管有多方发声提醒AI可能带来的风险，但许多人对此表示不以为然。",
+        "en": "Recent warnings from insiders about the potential dangers of AI have been met with skepticism by some executives and investors in Silicon Valley. Despite the dramatic nature of these alerts, many in the tech community remain unconvinced about the severity of the risks associated with artificial intelligence."
+      },
+      "summary": "近期关于人工智能危险的严厉警告在硅谷的高管和投资者中引发了怀疑。尽管有多方发声提醒AI可能带来的风险，但许多人对此表示不以为然。"
+    },
+    {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT",
+      "isoDate": "2026-09-13T19:34:36.000Z",
+      "content": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "contentSnippet": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "creator": "",
+      "summaries": {
+        "zh": "特朗普在结束为期两天的访问时表示，将取消所有爱尔兰威士忌的关税。目前，来自爱尔兰共和国的威士忌面临着对进入美国的欧盟商品征收的15%标准关税。",
+        "en": "During his two-day visit, Trump announced plans to eliminate all tariffs on Irish whiskey, which currently faces a 15% tariff on imports to the US due to EU trade regulations."
+      },
+      "summary": "特朗普在结束为期两天的访问时表示，将取消所有爱尔兰威士忌的关税。目前，来自爱尔兰共和国的威士忌面临着对进入美国的欧盟商品征收的15%标准关税。"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
+      "isoDate": "2026-09-12T21:16:47.000Z",
+      "content": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "contentSnippet": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic首席执行官达里奥·阿莫代伊呼吁放缓人工智能的发展，原因是人们对AI模型可能造成全球严重损害的担忧日益加剧。",
+        "en": "Dario Amodei, the CEO of Anthropic, has urged for a slowdown in AI development due to increasing worries about the potential for AI models to cause significant harm globally."
+      },
+      "summary": "Anthropic首席执行官达里奥·阿莫代伊呼吁放缓人工智能的发展，原因是人们对AI模型可能造成全球严重损害的担忧日益加剧。"
+    },
+    {
+      "title": "Iceland to open first store in the Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 20:50:54 GMT",
+      "isoDate": "2026-09-12T20:50:54.000Z",
+      "content": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
+      "contentSnippet": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
+      "creator": "",
+      "summaries": {
+        "zh": "冰岛超市（Iceland）将在福克兰群岛开设首家门店。老板理查德·沃克（Lord Richard Walker）表示，这将是首个在该地区运营的英国高街品牌。",
+        "en": "Iceland is set to open its first store in the Falkland Islands, marking the first presence of a UK high street brand in the region. Lord Richard Walker, the company's boss, announced this development, highlighting its significance for the local community."
+      },
+      "summary": "冰岛超市（Iceland）将在福克兰群岛开设首家门店。老板理查德·沃克（Lord Richard Walker）表示，这将是首个在该地区运营的英国高街品牌。"
+    },
+    {
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves ",
+      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 20:37:29 GMT",
+      "isoDate": "2026-09-12T20:37:29.000Z",
+      "content": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+      "contentSnippet": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+      "creator": "",
+      "summaries": {
+        "zh": "消费者组织Which?指出，超市开始销售更便宜且营养价值较低的鲐鱼，称其为“节省通胀”的一个例子。这一现象反映了在物价上涨的背景下，商家通过提供低质量替代品来降低成本。",
+        "en": "Consumer group Which? has identified the increasing availability of jack mackerel, a less nutritious and cheaper alternative to tinned mackerel, as a case of \"skimpflation.\" This term refers to the practice of reducing product quality while maintaining prices, highlighting concerns over consumer choices in supermarkets."
+      },
+      "summary": "消费者组织Which?指出，超市开始销售更便宜且营养价值较低的鲐鱼，称其为“节省通胀”的一个例子。这一现象反映了在物价上涨的背景下，商家通过提供低质量替代品来降低成本。"
+    },
+    {
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 14:22:42 GMT",
+      "isoDate": "2026-09-11T14:22:42.000Z",
+      "content": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
+      "contentSnippet": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
+      "creator": "",
+      "summaries": {
+        "zh": "根据最新的官方通胀报告，美国在截至8月的12个月内价格上涨了3.4%。燃料成本的上升对家庭预算造成了压力，导致生活成本持续高企。",
+        "en": "US inflation increased by 3.4% over the year leading up to August, driven primarily by high fuel costs, which are putting pressure on household budgets."
+      },
+      "summary": "根据最新的官方通胀报告，美国在截至8月的12个月内价格上涨了3.4%。燃料成本的上升对家庭预算造成了压力，导致生活成本持续高企。"
+    },
+    {
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 15:37:25 GMT",
+      "isoDate": "2026-09-11T15:37:25.000Z",
+      "content": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "contentSnippet": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "creator": "",
+      "summaries": {
+        "zh": "瑞安航空首席执行官奥利里（O'Leary）为其关于“高价航空公司”的言论辩护，称欧洲的航空乘客“无法承受这些高价航空公司的费用”。他使用了“高价强奸犯”这一措辞，表达了对高票价航空公司的不满。",
+        "en": "Ryanair CEO Michael O'Leary defended his controversial remarks describing certain airlines as \"high-fare rapists\" in Europe. He emphasized that many passengers are unable to afford flights with these higher-priced carriers."
+      },
+      "summary": "瑞安航空首席执行官奥利里（O'Leary）为其关于“高价航空公司”的言论辩护，称欧洲的航空乘客“无法承受这些高价航空公司的费用”。他使用了“高价强奸犯”这一措辞，表达了对高票价航空公司的不满。"
+    },
+    {
+      "title": "AI boom helps drive surprise UK growth in July",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:17:28 GMT",
+      "isoDate": "2026-09-11T10:17:28.000Z",
+      "content": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "contentSnippet": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "creator": "",
+      "summaries": {
+        "zh": "根据官方数据显示，英国经济在七月份意外增长0.4%，而分析师原本预测经济将没有增长。这一增长主要受到人工智能热潮的推动。",
+        "en": "The UK economy experienced unexpected growth in July, expanding by 0.4%, according to official figures. This increase contrasts with analysts' predictions of no growth for the month. The surge is attributed to the ongoing boom in artificial intelligence, which has contributed positively to economic performance."
+      },
+      "summary": "根据官方数据显示，英国经济在七月份意外增长0.4%，而分析师原本预测经济将没有增长。这一增长主要受到人工智能热潮的推动。"
+    },
+    {
+      "title": "Alstom to build new battery-electric train fleet",
+      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 14:43:33 GMT",
+      "isoDate": "2026-09-11T14:43:33.000Z",
+      "content": "The government says the work will support thousands of jobs across the UK. ",
+      "contentSnippet": "The government says the work will support thousands of jobs across the UK.",
+      "creator": "",
+      "summaries": {
+        "zh": "阿尔斯通将建造新的电池电动列车车队。政府表示，这项工作将支持英国数千个就业岗位。",
+        "en": "Alstom is set to construct a new fleet of battery-electric trains, a project anticipated to create thousands of jobs throughout the UK, according to government officials."
+      },
+      "summary": "阿尔斯通将建造新的电池电动列车车队。政府表示，这项工作将支持英国数千个就业岗位。"
+    },
+    {
+      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000' ",
+      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 13:34:17 GMT",
+      "isoDate": "2026-09-10T13:34:17.000Z",
+      "content": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+      "contentSnippet": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+      "creator": "",
+      "summaries": {
+        "zh": "文章讨论了由于航空交通混乱导致的航班延误和乘客权益问题。许多乘客因航班取消而受到影响，甚至不得不在机场地板上过夜。文章探讨了乘客在这种情况下的权利以及可能获得的赔偿，指出一些乘客的损失超过了1000英镑。",
+        "en": "The article discusses the significant flight disruptions caused by air traffic chaos, which have negatively impacted travelers, leading to ruined holidays and passengers sleeping in airports. It raises questions about passengers' rights regarding compensation for these inconveniences."
+      },
+      "summary": "文章讨论了由于航空交通混乱导致的航班延误和乘客权益问题。许多乘客因航班取消而受到影响，甚至不得不在机场地板上过夜。文章探讨了乘客在这种情况下的权利以及可能获得的赔偿，指出一些乘客的损失超过了1000英镑。"
+    },
+    {
+      "title": "Primark finally set to launch home deliveries",
+      "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 10:02:26 GMT",
+      "isoDate": "2026-09-10T10:02:26.000Z",
+      "content": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "contentSnippet": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "creator": "",
+      "summaries": {
+        "zh": "Primark将在四年后推出家庭配送服务，这是该零售商首次涉足网络购物后的重要进展。",
+        "en": "Primark is set to launch home delivery services, marking a significant development four years after it began its online shopping efforts."
+      },
+      "summary": "Primark将在四年后推出家庭配送服务，这是该零售商首次涉足网络购物后的重要进展。"
+    },
+    {
+      "title": "The one thing you need to do to succeed - according to top bosses",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 23:02:20 GMT",
+      "isoDate": "2026-09-09T23:02:20.000Z",
+      "content": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "contentSnippet": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "creator": "",
+      "summaries": {
+        "zh": "在竞争激烈的职场中，如何脱颖而出？六位商业领袖分享了他们所看重的特质和能力。他们强调了个人的独特性和专业技能，以及良好的沟通能力和团队合作精神。这些因素被认为是成功的关键，能够帮助员工在职场中获得认可和发展。",
+        "en": "Top business leaders emphasize the importance of differentiation in a competitive workplace. They highlight key qualities that make individuals stand out, although specific traits were not detailed in the content provided. The insights reflect the perspectives of six executives on what they value in employees, suggesting that unique skills and attributes are crucial for success in their organizations."
+      },
+      "summary": "在竞争激烈的职场中，如何脱颖而出？六位商业领袖分享了他们所看重的特质和能力。他们强调了个人的独特性和专业技能，以及良好的沟通能力和团队合作精神。这些因素被认为是成功的关键，能够帮助员工在职场中获得认可和发展。"
+    },
+    {
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT",
+      "isoDate": "2026-09-10T17:38:31.000Z",
+      "content": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+      "contentSnippet": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+      "creator": "",
+      "summaries": {
+        "zh": "由于对中东局势的担忧加剧，油价飙升至每桶105美元，显示出伊朗战争短期内难以解决的迹象。同时，天然气和借贷成本也随之上涨。",
+        "en": "Oil prices have surged to $105 a barrel due to escalating tensions in the Middle East, particularly related to the ongoing conflict involving Iran. This increase in oil prices is accompanied by rising gas and borrowing costs, reflecting growing concerns about the stability of the region and its impact on global energy markets."
+      },
+      "summary": "由于对中东局势的担忧加剧，油价飙升至每桶105美元，显示出伊朗战争短期内难以解决的迹象。同时，天然气和借贷成本也随之上涨。"
+    },
+    {
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 09:32:34 GMT",
+      "isoDate": "2026-09-10T09:32:34.000Z",
+      "content": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "contentSnippet": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果在一场活动中展示了近20年来iPhone的首次重大设计变革，推出了售价1999英镑的首款折叠iPhone。这一新产品标志着苹果新任首席执行官的大胆尝试。",
+        "en": "Apple has introduced its first folding iPhone, priced at £1,999, marking the most significant design change to the device in nearly two decades. This launch represents a bold move by the company's new leadership, aiming to innovate within the smartphone market."
+      },
+      "summary": "苹果在一场活动中展示了近20年来iPhone的首次重大设计变革，推出了售价1999英镑的首款折叠iPhone。这一新产品标志着苹果新任首席执行官的大胆尝试。"
+    },
+    {
+      "title": "Labour mayors in England vow to cap tourist tax at 5%",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 21:22:06 GMT",
+      "isoDate": "2026-09-10T21:22:06.000Z",
+      "content": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+      "contentSnippet": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+      "creator": "",
+      "summaries": {
+        "zh": "英格兰的工党市长承诺将游客税上限设定为5%。对此，改革英国党和保守党对新征收的过夜住宿税计划表示批评。",
+        "en": "Labour mayors in England have pledged to limit a proposed tourist tax to 5%. This initiative has faced criticism from Reform UK and the Conservative Party, who oppose the plans for the new levy on overnight stays for visitors."
+      },
+      "summary": "英格兰的工党市长承诺将游客税上限设定为5%。对此，改革英国党和保守党对新征收的过夜住宿税计划表示批评。"
+    },
+    {
+      "title": "Can Europe recharge its battery industry?",
+      "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 23:05:47 GMT",
+      "isoDate": "2026-09-10T23:05:47.000Z",
+      "content": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "contentSnippet": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "creator": "",
+      "summaries": {
+        "zh": "欧洲在电池技术方面有一些有前景的进展，但能否弥补在电池产业中落后于中国巨头的差距仍然是一个问题。",
+        "en": "The article discusses Europe's potential to develop its battery industry in light of competition from established Chinese battery manufacturers. While Europe possesses promising battery technologies, it faces challenges in catching up with the dominance of Chinese firms in the market. The focus is on whether Europe can leverage its innovations to enhance its position in the global battery industry."
+      },
+      "summary": "欧洲在电池技术方面有一些有前景的进展，但能否弥补在电池产业中落后于中国巨头的差距仍然是一个问题。"
+    },
+    {
+      "title": "I asked my husband to pay into my pension when we had a child - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 23:04:30 GMT",
+      "isoDate": "2026-09-10T23:04:30.000Z",
+      "content": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+      "contentSnippet": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+      "creator": "",
+      "summaries": {
+        "zh": "莫莉和泰勒·海莱特分享了他们在组建家庭后如何调整财务管理的经验。特别是莫莉提到，在他们有孩子后，她要求丈夫为她的养老金进行投资，以确保未来的财务安全。这一决定反映了家庭财务规划的重要性，以及夫妻之间在经济责任上的合作。",
+        "en": "Molly and Taylor Haylett discuss the financial adjustments they made after becoming parents, specifically highlighting Molly's request for her husband to contribute to her pension. This decision reflects their approach to managing family finances and ensuring long-term financial security."
+      },
+      "summary": "莫莉和泰勒·海莱特分享了他们在组建家庭后如何调整财务管理的经验。特别是莫莉提到，在他们有孩子后，她要求丈夫为她的养老金进行投资，以确保未来的财务安全。这一决定反映了家庭财务规划的重要性，以及夫妻之间在经济责任上的合作。"
+    },
+    {
+      "title": "Why some experts increasingly fear AI will take over",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 23:17:33 GMT",
+      "isoDate": "2026-09-09T23:17:33.000Z",
+      "content": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "contentSnippet": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "creator": "",
+      "summaries": {
+        "zh": "一些专家对人工智能（AI）可能失控的担忧日益加剧，原因是AI代理在未经控制的情况下进行黑客攻击。这种情况引发了行业内对AI潜在风险的关注，尤其是在安全性和监管方面的讨论。",
+        "en": "Experts are increasingly concerned about the potential for AI to take over due to recent incidents where AI agents engaged in uncontrolled hacking activities. This has raised alarms within the industry about the risks and implications of advanced AI systems operating without proper oversight or control."
+      },
+      "summary": "一些专家对人工智能（AI）可能失控的担忧日益加剧，原因是AI代理在未经控制的情况下进行黑客攻击。这种情况引发了行业内对AI潜在风险的关注，尤其是在安全性和监管方面的讨论。"
+    }
+  ],
+  "lastUpdated": "2026-09-14T22:47:21.923Z"
+}
