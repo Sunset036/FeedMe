@@ -75,40 +75,54 @@ sources:
   - id: guardian-business
     name:
       en: Guardian Business
+      zh: 卫报商业
     url: https://www.theguardian.com/uk/business/rss
-    category: economy
+    category: business
   - id: guardian-world
     name:
       en: Guardian World
+      zh: 卫报世界
     url: https://www.theguardian.com/world/rss
     category: politics
   - id: guardian-environment
     name:
       en: Guardian Environment
+      zh: 卫报环境
     url: https://www.theguardian.com/environment/rss
-    category: ecology
+    category: science
+  - id: guardian-tech
+    name:
+      en: Guardian Tech
+      zh: 卫报科技
+    url: https://www.theguardian.com/uk/technology/rss
+    category: tech
   - id: bbc-world
     name:
       en: BBC World
+      zh: BBC 世界
     url: https://feeds.bbci.co.uk/news/world/rss.xml
     category: politics
   - id: bbc-business
     name:
       en: BBC Business
+      zh: BBC 商业
     url: https://feeds.bbci.co.uk/news/business/rss.xml
-    category: economy
+    category: business
   - id: ap-top-news
     name:
       en: AP Top News
+      zh: 美联社头条
     url: https://apnews.com/hub/ap-top-news?format=rss
     category: politics
   - id: ap-business
     name:
       en: AP Business
+      zh: 美联社商业
     url: https://apnews.com/hub/business?format=rss
-    category: economy
+    category: business
   - id: france24
     name:
       en: France24
+      zh: 法国24
     url: https://www.france24.com/en/rss
     category: politics
