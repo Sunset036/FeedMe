@@ -2,7 +2,7 @@
 # Category display order follows the order below.
 
 settings:
-  defaultSource: hacker-news-best
+  defaultSource: guardian-world
   maxItemsPerFeed: 30
   dataPath: ./public/data
 
