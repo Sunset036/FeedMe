@@ -30,46 +30,22 @@ summary:
     {{content}}
 
 categories:
-  - id: techNews
+  - id: business
     name:
-      zh: 科技资讯
-      en: Tech News
-  - id: financeNews
+      zh: 经济
+      en: Economy
+  - id: politics
     name:
-      zh: 财经资讯
-      en: Finance News
-  - id: personalBlogs
+      zh: 政治
+      en: Politics
+  - id: science
     name:
-      zh: 个人博客
-      en: Personal Blogs
-  - id: companyBlogs
+      zh: 生态
+      en: Ecology
+  - id: tech
     name:
-      zh: 企业博客
-      en: Company Blogs
-  - id: openSource
-    name:
-      zh: 开源项目
-      en: Open Source
-  - id: research
-    name:
-      zh: 科研资讯
-      en: Research
-  - id: forums
-    name:
-      zh: 论坛
-      en: Forums
-  - id: anime
-    name:
-      zh: 番剧资讯
-      en: Anime
-  - id: sports
-    name:
-      zh: 体育资讯
-      en: Sports
-  - id: podcasts
-    name:
-      zh: 播客
-      en: Podcasts
+      zh: 科技
+      en: Tech
 
 sources:
   - id: guardian-business
