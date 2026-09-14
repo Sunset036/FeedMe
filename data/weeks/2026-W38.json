@@ -1,0 +1,66 @@
+{
+  "week": "2026-W38",
+  "generated_at": "2026-09-14T23:04:54.797566",
+  "articles": [
+    {
+      "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+      "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article souligne l'importance pour l'Europe de développer sa propre technologie d'IA afin de ne pas dépendre des États-Unis et de la Chine, ce qui est crucial pour la souveraineté économique et technologique.",
+      "questions": [
+        "Quelles sont les implications économiques de la dépendance de l'Europe à l'IA développée par d'autres pays?",
+        "Comment la création de centres de données en Europe pourrait-elle influencer le marché mondial de l'IA?",
+        "Quels seraient les défis à surmonter pour que l'Europe devienne un leader dans le domaine de l'IA?",
+        "Comment cette initiative pourrait-elle affecter les relations commerciales entre l'Europe, les États-Unis et la Chine?"
+      ],
+      "id": "7f9588396bd5",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Government moves to nationalise Speciality Steel UK to protect 1,300 jobs",
+      "link": "https://www.theguardian.com/business/2026/sep/14/government-nationalise-speciality-steel-uk-jobs-ssuk",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière la décision du gouvernement britannique de nationaliser une entreprise pour protéger des emplois, illustrant les tensions entre le marché libre et la nécessité de soutenir l'emploi.",
+      "questions": [
+        "Quels sont les avantages et les inconvénients de la nationalisation d'une entreprise en difficulté?",
+        "Comment cette décision pourrait-elle influencer la perception du gouvernement sur la protection de l'emploi?",
+        "Quelles pourraient être les conséquences à long terme de cette nationalisation sur l'industrie de l'acier au Royaume-Uni?",
+        "Comment cette action s'inscrit-elle dans le contexte plus large des politiques économiques du gouvernement britannique?"
+      ],
+      "id": "d09e8f1e7631",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+      "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "L'augmentation des coûts d'emprunt aux États-Unis est un indicateur clé de la santé économique et des tensions inflationnistes, ce qui a des répercussions sur les marchés mondiaux.",
+      "questions": [
+        "Quelles sont les causes de l'augmentation des coûts d'emprunt aux États-Unis?",
+        "Comment cette hausse des coûts d'emprunt pourrait-elle affecter les consommateurs et les entreprises américaines?",
+        "Quelles sont les implications pour l'économie mondiale si les taux d'intérêt continuent d'augmenter?",
+        "Comment les politiques monétaires de la Réserve fédérale pourraient-elles évoluer en réponse à cette situation?"
+      ],
+      "id": "1af09e711fa3",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "US ends limits on coal and gas plant emissions, removing key tool to battle climate crisis",
+      "link": "https://www.theguardian.com/environment/2026/sep/14/trump-epa-repeal-pollution-standards-power-plants",
+      "source": "Guardian Environment",
+      "category": "ecologie",
+      "why_selected": "Cet article aborde la décision controversée de l'administration Trump de lever les limites sur les émissions des centrales à charbon et à gaz, ce qui a des conséquences majeures pour la lutte contre le changement climatique.",
+      "questions": [
+        "Quelles sont les conséquences environnementales de la levée des limites sur les émissions des centrales à charbon et à gaz?",
+        "Comment cette décision pourrait-elle influencer les efforts mondiaux pour lutter contre le changement climatique?",
+        "Quels sont les arguments des partisans et des opposants de cette politique?",
+        "Comment les citoyens et les organisations environnementales peuvent-ils réagir face à cette décision?"
+      ],
+      "id": "6089d1c57fb4",
+      "reading_time": "1 min"
+    }
+  ]
+}
