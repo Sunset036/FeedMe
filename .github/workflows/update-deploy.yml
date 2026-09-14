@@ -1,10 +1,8 @@
-name: 更新数据并部署
+name: Mise à jour de ma veille
 
 on:
   schedule:
     - cron: '0 6 * * 1'
-  push:
-    branches: [main, dev]
   workflow_dispatch:
 
 permissions:
@@ -12,117 +10,29 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "deploy"
-  cancel-in-progress: true
-
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '24'
-
-      - uses: pnpm/action-setup@v3
-        with:
-          version: 8.4.0
+          python-version: '3.10'
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: pip install feedparser requests
 
-      - name: Type check
-        run: pnpm typecheck
-
-      - name: Restore previous feed data
-        run: |
-          mkdir -p public
-
-          if git ls-remote --exit-code --heads origin deploy >/dev/null 2>&1; then
-            git fetch origin deploy --depth=1
-
-            if git cat-file -e FETCH_HEAD:data 2>/dev/null; then
-              rm -rf public/data
-              git archive --format=tar FETCH_HEAD data | tar -x -C public
-              echo "Restored $(find public/data -type f | wc -l | tr -d ' ') feed data files from deploy branch"
-            else
-              echo "No data directory found on deploy branch"
-            fi
-          else
-            echo "No deploy branch found, skipping feed data restore"
-          fi
-
-      - name: Update RSS feeds
-        run: pnpm update-feeds
+      - name: Generate site
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_API_BASE: ${{ secrets.LLM_API_BASE }}
-          LLM_NAME: ${{ secrets.LLM_NAME }}
+        run: python generate.py
 
-      - name: Build static site
-        run: pnpm build
-
-      - name: Copy vercel config to output
-        run: cp vercel.json ./out/
-
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: site-build
-          path: ./out
-          retention-days: 1
+          path: '.'
 
-  deploy-github-pages:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: site-build
-          path: ./out
-
-      - uses: actions/configure-pages@v4
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./out
-
-      - id: deployment
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
-
-  deploy-branch:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - uses: actions/download-artifact@v4
-        with:
-          name: site-build
-          path: ./build-output
-
-      - name: Deploy to deploy branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Always create a fresh orphan branch (no history)
-          git checkout --orphan deploy-new
-
-          # Remove all existing files
-          git rm -rf . 2>/dev/null || true
-
-          # Copy build output
-          cp -r build-output/* .
-          rm -rf build-output
-
-          # Add and commit
-          git add -A
-          git commit -m "Deploy: $(date +'%Y-%m-%d %H:%M:%S')"
-
-          # Force push to deploy branch (replaces all history)
-          git push -f origin deploy-new:deploy
