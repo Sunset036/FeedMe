@@ -72,213 +72,43 @@ categories:
       en: Podcasts
 
 sources:
-  - id: hacker-news-best
+  - id: guardian-business
     name:
-      zh: Hacker News 近期最佳
-      en: Hacker News Best
-    url: https://hnrss.org/best
-    category: techNews
-  - id: hacker-news-daily-top-10
+      en: Guardian Business
+    url: https://www.theguardian.com/uk/business/rss
+    category: economy
+  - id: guardian-world
     name:
-      zh: Hacker News 历史每日前十
-      en: Hacker News Daily Top 10
-    url: https://rsshub.rssforever.com/github/issue/headllines/hackernews-daily
-    category: techNews
-  - id: bloomberg-markets
+      en: Guardian World
+    url: https://www.theguardian.com/world/rss
+    category: politics
+  - id: guardian-environment
     name:
-      zh: Bloomberg Markets
-      en: Bloomberg Markets
-    url: https://feeds.bloomberg.com/markets/news.rss
-    category: financeNews
-  - id: bloomberg-technology
+      en: Guardian Environment
+    url: https://www.theguardian.com/environment/rss
+    category: ecology
+  - id: bbc-world
     name:
-      zh: Bloomberg Technology
-      en: Bloomberg Technology
-    url: https://feeds.bloomberg.com/technology/news.rss
-    category: financeNews
-  - id: andrej-karpathy
+      en: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    category: politics
+  - id: bbc-business
     name:
-      zh: Andrej Karpathy
-      en: Andrej Karpathy
-    url: https://karpathy.bearblog.dev/feed/
-    category: personalBlogs
-  - id: simon-willison
+      en: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    category: economy
+  - id: ap-top-news
     name:
-      zh: Simon Willison's Weblog
-      en: Simon Willison's Weblog
-    url: https://simonwillison.net/atom/everything/
-    category: personalBlogs
-  - id: mario-zechner
+      en: AP Top News
+    url: https://apnews.com/hub/ap-top-news?format=rss
+    category: politics
+  - id: ap-business
     name:
-      zh: Mario Zechner's Blog
-      en: Mario Zechner's Blog
-    url: https://mariozechner.at/rss.xml
-    category: personalBlogs
-  - id: ruanyifeng
+      en: AP Business
+    url: https://apnews.com/hub/business?format=rss
+    category: economy
+  - id: france24
     name:
-      zh: 阮一峰的个人网站
-      en: Ruanyifeng's Blog
-    url: http://www.ruanyifeng.com/blog/atom.xml
-    category: personalBlogs
-  - id: sebastian-raschka
-    name:
-      zh: Sebastian Raschka
-      en: Sebastian Raschka
-    url: https://sebastianraschka.com/rss_feed.xml
-    category: personalBlogs
-  - id: openai-news
-    name:
-      zh: OpenAI News
-      en: OpenAI News
-    url: https://openai.com/news/rss.xml
-    category: companyBlogs
-  - id: openai-engineering
-    name:
-      zh: OpenAI Engineering
-      en: OpenAI Engineering
-    url: https://openai.com/news/engineering/rss.xml
-    category: companyBlogs
-  - id: openai-research
-    name:
-      zh: OpenAI Research
-      en: OpenAI Research
-    url: https://openai.com/blog/rss.xml
-    category: companyBlogs
-  - id: anthropic-engineering
-    name:
-      zh: Anthropic 工程博客
-      en: Anthropic Engineering
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml
-    category: companyBlogs
-  - id: anthropic-frontier-red-team
-    name:
-      zh: Anthropic Frontier Red Team
-      en: Anthropic Frontier Red Team
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml
-    category: companyBlogs
-  - id: anthropic-news
-    name:
-      zh: Anthropic 新闻
-      en: Anthropic News
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
-    category: companyBlogs
-  - id: anthropic-research
-    name:
-      zh: Anthropic 研究
-      en: Anthropic Research
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml
-    category: companyBlogs
-  - id: claude-blog
-    name:
-      zh: Claude 博客
-      en: Claude Blog
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml
-    category: companyBlogs
-  - id: claude-code-changelog
-    name:
-      zh: Claude Code 更新日志
-      en: Claude Code Changelog
-    url: https://code.claude.com/docs/en/changelog/rss.xml
-    category: companyBlogs
-  - id: google-product-news
-    name:
-      zh: Google 产品和技术新闻
-      en: Google Product and Technology News
-    url: https://blog.google/rss/
-    category: companyBlogs
-  - id: google-developers-blog
-    name:
-      zh: Google 开发者博客
-      en: Google Developers Blog
-    url: https://rsshub.rssforever.com/google/developers/en
-    category: companyBlogs
-  - id: google-research-blog
-    name:
-      zh: Google 研究博客
-      en: Google Research Blog
-    url: https://rsshub.rssforever.com/google/research
-    category: companyBlogs
-  - id: google-deepmind
-    name:
-      zh: Google DeepMind
-      en: Google DeepMind
-    url: https://deepmind.google/blog/rss.xml
-    category: companyBlogs
-  - id: github-blog
-    name:
-      zh: Github 博客
-      en: GitHub Blog
-    url: https://github.blog/feed/
-    category: companyBlogs
-  - id: hugging-face-blog
-    name:
-      zh: Hugging Face 博客
-      en: Hugging Face Blog
-    url: https://rsshub.rssforever.com/huggingface/blog
-    category: companyBlogs
-  - id: microsoft-research
-    name:
-      zh: Microsoft Research
-      en: Microsoft Research
-    url: https://www.microsoft.com/en-us/research/feed/
-    category: companyBlogs
-  - id: github-trending-daily
-    name:
-      zh: Github 今日热门
-      en: GitHub Trending Today
-    url: https://rsshub.rssforever.com/github/trending/daily/any
-    category: openSource
-  - id: github-trending-weekly
-    name:
-      zh: Github 近一周热门
-      en: GitHub Trending This Week
-    url: https://rsshub.rssforever.com/github/trending/weekly/any
-    category: openSource
-  - id: hugging-face-daily-papers
-    name:
-      zh: Hugging Face 每日论文
-      en: Hugging Face Daily Papers
-    url: https://rsshub.rssforever.com/huggingface/daily-papers
-    category: research
-  - id: linux-do-daily-top
-    name:
-      zh: LINUX DO 今日热门
-      en: LINUX DO Daily Top
-    url: https://linux.do/top.rss?period=daily
-    category: forums
-  - id: linux-do-weekly-top
-    name:
-      zh: LINUX DO 近一周热门
-      en: LINUX DO Weekly Top
-    url: https://linux.do/top.rss?period=weekly
-    category: forums
-  - id: linux-do-monthly-top
-    name:
-      zh: LINUX DO 近一月热门
-      en: LINUX DO Monthly Top
-    url: https://linux.do/top.rss?period=monthly
-    category: forums
-  - id: v2ex-hot
-    name:
-      zh: V2EX 今日热门
-      en: V2EX Hot Today
-    url: https://rsshub.rssforever.com/v2ex/topics/hot
-    category: forums
-  - id: bangumi-monthly-popular
-    name:
-      zh: Bangumi 近一月热门
-      en: Bangumi Monthly Popular
-    url: https://rsshub.rssforever.com/bangumi.tv/anime/followrank
-    category: anime
-  - id: f1-news
-    name:
-      zh: F1 News
-      en: F1 News
-    url: https://www.formula1.com/content/fom-website/en/latest/all.xml
-    category: sports
-  - id: lex-fridman-podcast
-    name:
-      zh: Lex Fridman Podcast
-      en: Lex Fridman Podcast
-    url: https://lexfridman.com/feed/podcast/
-    category: podcasts
+      en: France24
+    url: https://www.france24.com/en/rss
+    category: politics
