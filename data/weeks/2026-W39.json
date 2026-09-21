@@ -1,0 +1,66 @@
+{
+  "week": "2026-W39",
+  "generated_at": "2026-09-21T06:08:58.125807",
+  "articles": [
+    {
+      "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+      "link": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde la nécessité d'un fonds de richesse national au Royaume-Uni pour soutenir l'économie, un sujet crucial dans le contexte économique actuel.",
+      "questions": [
+        "Quelles pourraient être les implications d'un renforcement du fonds de richesse national sur l'économie britannique à long terme?",
+        "Comment un fonds de richesse national pourrait-il influencer les inégalités économiques au sein du pays?",
+        "Quels sont les risques associés à une telle initiative en termes de gestion et de transparence?",
+        "En quoi cette proposition pourrait-elle servir de modèle pour d'autres pays confrontés à des défis économiques similaires?"
+      ],
+      "id": "2f237cd3e157",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Only 160 apprenticeship starts in eight months on Labour’s flagship scheme",
+      "link": "https://www.theguardian.com/education/2026/sep/21/apprenticeship-starts-labour-scheme-skills-revolution",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière les défis du programme d'apprentissage du gouvernement britannique, essentiel pour lutter contre le chômage des jeunes.",
+      "questions": [
+        "Quelles sont les causes possibles du faible nombre d'inscriptions dans ce programme d'apprentissage?",
+        "Comment le gouvernement pourrait-il améliorer l'attractivité des apprentissages pour les jeunes?",
+        "Quels impacts le manque d'opportunités d'apprentissage pourrait-il avoir sur l'économie à long terme?",
+        "En quoi le succès ou l'échec de ce programme pourrait-il influencer la perception publique du gouvernement actuel?"
+      ],
+      "id": "dd3f6a008129",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
+      "link": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article traite de la dépendance de l'Europe aux terres rares chinoises, un enjeu stratégique crucial pour l'avenir économique et technologique.",
+      "questions": [
+        "Quelles seraient les conséquences économiques pour l'Europe si elle ne parvient pas à diversifier ses sources d'approvisionnement en terres rares?",
+        "Comment la dépendance aux terres rares chinoises affecte-t-elle la compétitivité des entreprises européennes?",
+        "Quels efforts l'Europe devrait-elle entreprendre pour développer ses propres capacités d'extraction et de traitement des terres rares?",
+        "En quoi la situation actuelle pourrait-elle influencer les relations commerciales entre l'Europe et la Chine?"
+      ],
+      "id": "d18fa4fabf13",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Meta launches legal challenge against UK media regulator over Online Safety Act",
+      "link": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
+      "source": "Guardian Business",
+      "category": "tech",
+      "why_selected": "Cet article illustre le conflit entre les entreprises technologiques et les régulateurs, un sujet clé dans le débat sur la sécurité en ligne.",
+      "questions": [
+        "Quels sont les enjeux pour la protection des utilisateurs dans le cadre de la contestation de Meta contre la réglementation britannique?",
+        "Comment cette situation pourrait-elle influencer la future législation sur la sécurité en ligne dans d'autres pays?",
+        "Quelles sont les implications pour la responsabilité des entreprises technologiques face aux contenus nuisibles?",
+        "En quoi la réaction de Meta pourrait-elle affecter la confiance du public dans les plateformes de médias sociaux?"
+      ],
+      "id": "8a8a684f688d",
+      "reading_time": "1 min"
+    }
+  ]
+}
