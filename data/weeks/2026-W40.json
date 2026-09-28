@@ -1,0 +1,51 @@
+{
+  "week": "2026-W40",
+  "generated_at": "2026-09-28T06:08:58.842051",
+  "articles": [
+    {
+      "title": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
+      "link": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière les inégalités croissantes dans le secteur financier britannique en période de crise du coût de la vie.",
+      "questions": [
+        "Quels sont les impacts de la rémunération élevée des banquiers et avocats sur l'économie britannique en période de crise?",
+        "Comment cette frénésie de fusions et acquisitions affecte-t-elle les petites entreprises et l'innovation?",
+        "Quelles pourraient être les conséquences sociales et politiques d'une telle disparité de revenus?",
+        "Comment le gouvernement pourrait-il intervenir pour réguler les salaires dans le secteur financier?"
+      ],
+      "id": "c7060a83db58",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Most of UK’s essential food supply grown in drought-risk areas, report warns",
+      "link": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
+      "source": "Guardian Business",
+      "category": "ecologie",
+      "why_selected": "Cet article soulève des préoccupations cruciales sur la sécurité alimentaire face aux risques climatiques croissants.",
+      "questions": [
+        "Quelles sont les implications d'une concentration de la production alimentaire dans des zones à risque de sécheresse?",
+        "Comment les agriculteurs peuvent-ils s'adapter aux changements climatiques pour garantir la sécurité alimentaire?",
+        "Quels rôles les politiques gouvernementales devraient-elles jouer pour soutenir les agriculteurs dans les zones à risque?",
+        "Comment la société peut-elle se préparer à une éventuelle crise alimentaire liée aux conditions climatiques?"
+      ],
+      "id": "f27df32bfc7e",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+      "link": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+      "source": "Guardian Business",
+      "category": "tech",
+      "why_selected": "Cet article aborde les préoccupations croissantes concernant les dangers de l'intelligence artificielle et la nécessité de régulations.",
+      "questions": [
+        "Quels sont les principaux risques associés à l'IA non régulée selon Bill Gates?",
+        "Comment les gouvernements peuvent-ils établir des réglementations efficaces pour encadrer le développement de l'IA?",
+        "Quelles sont les implications éthiques de l'utilisation de l'IA dans des domaines sensibles comme la santé et la sécurité?",
+        "Comment les entreprises technologiques peuvent-elles équilibrer innovation et responsabilité sociale dans le développement de l'IA?"
+      ],
+      "id": "ccf4c9ef27f6",
+      "reading_time": "1 min"
+    }
+  ]
+}
