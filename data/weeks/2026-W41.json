@@ -1,0 +1,66 @@
+{
+  "week": "2026-W41",
+  "generated_at": "2026-10-05T06:12:40.348126",
+  "articles": [
+    {
+      "title": "Money stolen by scammers hijacking UK social media accounts rises 400%",
+      "link": "https://www.theguardian.com/money/2026/oct/05/scammers-hijacking-uk-social-media-accounts",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière l'augmentation alarmante de la fraude en ligne, un enjeu économique et social majeur dans le monde numérique actuel.",
+      "questions": [
+        "Quelles sont les principales raisons de l'augmentation des fraudes en ligne et comment les entreprises peuvent-elles s'adapter ?",
+        "Comment les gouvernements peuvent-ils renforcer la législation pour protéger les citoyens contre ces escroqueries ?",
+        "Quel impact cette augmentation des fraudes a-t-elle sur la confiance des consommateurs dans les plateformes numériques ?",
+        "Quelles mesures préventives peuvent être mises en place pour sensibiliser le public aux risques liés à la sécurité en ligne ?"
+      ],
+      "id": "006f70a63062",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+      "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde les défis auxquels l'industrie automobile britannique est confrontée dans un contexte de tensions commerciales, ce qui a des implications profondes pour l'économie nationale.",
+      "questions": [
+        "Quels sont les avantages et les inconvénients de dépendre des marchés chinois et européen pour l'industrie automobile britannique ?",
+        "Comment les décisions politiques actuelles influencent-elles la compétitivité de l'industrie automobile au Royaume-Uni ?",
+        "Quelles stratégies les fabricants britanniques pourraient-ils adopter pour naviguer dans ce dilemme commercial ?",
+        "En quoi la situation actuelle pourrait-elle affecter l'emploi et l'innovation dans le secteur automobile britannique ?"
+      ],
+      "id": "fffd4bfe2cf3",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Tories to pledge to scrap Environment Agency and Natural England",
+      "link": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+      "source": "Guardian Business",
+      "category": "politique",
+      "why_selected": "Cet article traite des implications politiques et environnementales d'une proposition de suppression d'agences clés, révélant les tensions entre croissance économique et protection de l'environnement.",
+      "questions": [
+        "Quelles pourraient être les conséquences de la suppression de ces agences sur la politique environnementale au Royaume-Uni ?",
+        "Comment cette décision pourrait-elle influencer la perception du public sur le changement climatique et la durabilité ?",
+        "Quels sont les arguments en faveur et contre la réduction des régulations environnementales dans le cadre de la croissance économique ?",
+        "En quoi cette proposition pourrait-elle affecter les relations internationales du Royaume-Uni en matière de politique environnementale ?"
+      ],
+      "id": "babbfc437b24",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
+      "link": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "why_selected": "Cet article soulève des questions éthiques cruciales sur l'utilisation de l'IA et son impact sur la représentation culturelle et religieuse.",
+      "questions": [
+        "Quelles sont les implications éthiques de l'utilisation de l'IA pour modifier des images de personnes en fonction de stéréotypes culturels ?",
+        "Comment les entreprises technologiques peuvent-elles être tenues responsables de l'impact de leurs produits sur la société ?",
+        "En quoi ces pratiques peuvent-elles affecter la perception des identités culturelles et religieuses dans le monde numérique ?",
+        "Quelles mesures peuvent être mises en place pour garantir une représentation respectueuse et précise des diverses identités dans les technologies émergentes ?"
+      ],
+      "id": "b5e9df7ea39f",
+      "reading_time": "1 min"
+    }
+  ]
+}
