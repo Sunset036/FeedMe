@@ -1,0 +1,51 @@
+{
+  "week": "2026-W42",
+  "generated_at": "2026-10-12T06:12:12.396800",
+  "articles": [
+    {
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière les efforts de l'UE pour renforcer son industrie face à la concurrence chinoise, un enjeu crucial pour l'économie européenne.",
+      "questions": [
+        "Quels sont les impacts potentiels des règles 'Made in Europe' sur la compétitivité des entreprises européennes ?",
+        "Comment la montée des marques chinoises affecte-t-elle les emplois dans le secteur automobile européen ?",
+        "Quelles pourraient être les conséquences économiques d'une dépendance accrue à l'égard de l'industrie asiatique ?",
+        "En quoi le soutien de Volkswagen à ces initiatives pourrait-il influencer d'autres entreprises européennes ?"
+      ],
+      "id": "ef4a42152e50",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
+      "link": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde les défis économiques auxquels font face les pays en développement, un sujet essentiel dans le contexte des inégalités mondiales.",
+      "questions": [
+        "Quelles sont les principales causes de la tourmente actuelle sur le marché obligataire et comment affectent-elles les pays en développement ?",
+        "Comment les politiques de relance peuvent-elles être adaptées pour soutenir les économies fragiles ?",
+        "Quels rôles peuvent jouer les pays développés pour atténuer les effets de la crise sur les nations en développement ?",
+        "En quoi la situation actuelle pourrait-elle influencer les futures relations économiques entre les pays développés et en développement ?"
+      ],
+      "id": "522994f52019",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
+      "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+      "source": "Guardian Business",
+      "category": "tech",
+      "why_selected": "Cet article souligne l'importance de l'autonomie technologique dans un monde de plus en plus dominé par l'IA, un enjeu stratégique pour le Royaume-Uni.",
+      "questions": [
+        "Quels sont les risques associés à la dépendance des systèmes d'IA étrangers pour la sécurité nationale ?",
+        "Comment le Royaume-Uni peut-il développer une stratégie efficace pour renforcer ses capacités en IA ?",
+        "Quelles implications cela pourrait-il avoir sur la collaboration internationale dans le domaine de la technologie ?",
+        "En quoi la position du Royaume-Uni sur l'IA pourrait-elle influencer les investissements étrangers dans le pays ?"
+      ],
+      "id": "e62d5605e595",
+      "reading_time": "1 min"
+    }
+  ]
+}
