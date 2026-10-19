@@ -1,0 +1,66 @@
+{
+  "week": "2026-W43",
+  "generated_at": "2026-10-19T06:25:19.452547",
+  "articles": [
+    {
+      "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+      "link": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière l'impact des conflits géopolitiques sur l'économie des entreprises, ce qui est crucial pour comprendre les dynamiques économiques mondiales.",
+      "questions": [
+        "Quels sont les facteurs sous-jacents qui provoquent une augmentation des coûts pour les entreprises en temps de guerre?",
+        "Comment les avertissements de bénéfices affectent-ils la confiance des investisseurs et la stabilité du marché?",
+        "Quelles stratégies les entreprises peuvent-elles adopter pour atténuer les impacts des conflits géopolitiques sur leurs opérations?",
+        "En quoi la situation actuelle pourrait-elle influencer les politiques économiques des gouvernements concernés?"
+      ],
+      "id": "fbbff4376dd8",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+      "link": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article illustre les défis auxquels sont confrontées les industries nationales face à la concurrence européenne, soulignant l'importance de la politique énergétique.",
+      "questions": [
+        "Comment les coûts de l'électricité influencent-ils la compétitivité des industries nationales par rapport à celles de l'UE?",
+        "Quelles mesures peuvent être prises par le gouvernement britannique pour soutenir ses industries face à la hausse des coûts?",
+        "En quoi la situation actuelle pourrait-elle affecter l'emploi et l'économie locale dans les régions touchées?",
+        "Quels sont les impacts à long terme d'une dépendance accrue aux sources d'énergie coûteuses pour l'industrie?"
+      ],
+      "id": "906ea1dcb404",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+      "link": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "source": "Guardian Environment",
+      "category": "ecologie",
+      "why_selected": "Cet article aborde les enjeux de santé publique et environnementale liés aux substances toxiques, ce qui est essentiel pour comprendre les défis écologiques contemporains.",
+      "questions": [
+        "Quels sont les risques pour la santé publique associés à l'exposition aux composés Pfas?",
+        "Comment la communication de l'EPA sur les Pfas affecte-t-elle la confiance du public dans les agences gouvernementales?",
+        "Quelles actions peuvent être entreprises pour mieux réglementer les substances chimiques dangereuses dans l'environnement?",
+        "En quoi la situation actuelle des Pfas reflète-t-elle des lacunes dans la législation environnementale aux États-Unis?"
+      ],
+      "id": "22bcf4150987",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "source": "Guardian Business",
+      "category": "tech",
+      "why_selected": "Cet article met en évidence les défis liés à l'infrastructure énergétique nécessaire pour soutenir le développement technologique, un sujet crucial dans le contexte de la transition énergétique.",
+      "questions": [
+        "Quels sont les défis spécifiques liés à l'approvisionnement énergétique pour les projets technologiques de grande envergure?",
+        "Comment la décision de Microsoft pourrait-elle influencer d'autres entreprises dans leurs choix d'investissement en infrastructure?",
+        "Quelles solutions pourraient être envisagées pour garantir un approvisionnement énergétique fiable pour les datacentres?",
+        "En quoi cette situation illustre-t-elle les tensions entre développement technologique et durabilité environnementale?"
+      ],
+      "id": "208a441f6f2b",
+      "reading_time": "1 min"
+    }
+  ]
+}
