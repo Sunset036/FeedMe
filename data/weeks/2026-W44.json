@@ -1,0 +1,66 @@
+{
+  "week": "2026-W44",
+  "generated_at": "2026-10-26T12:03:45.495581",
+  "articles": [
+    {
+      "title": "Meta announces $95bn fundraising drive to pay for AI expansion – business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière l'énorme investissement de Meta dans l'IA, soulignant l'importance croissante de la technologie dans l'économie mondiale.",
+      "questions": [
+        "Quels sont les impacts économiques potentiels d'un investissement aussi massif dans l'IA par une entreprise comme Meta ?",
+        "Comment cette expansion de l'IA pourrait-elle influencer le marché du travail et les compétences requises dans le futur ?",
+        "Quelles sont les implications éthiques et sociales de la création d'une 'superintelligence personnelle' ?",
+        "Comment la réaction d'Elon Musk sur la 'mort de niveau guppy' des entreprises d'IA pourrait-elle affecter la perception publique de ces technologies ?"
+      ],
+      "id": "32dea7f37cd9",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "link": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde les critiques du Brexit et ses effets sur l'économie britannique, un sujet central dans le débat politique actuel.",
+      "questions": [
+        "Quelles sont les principales raisons pour lesquelles le public britannique est insatisfait du Brexit ?",
+        "Comment les promesses non tenues du Brexit affectent-elles la confiance du public envers les politiciens ?",
+        "Quels changements pourraient être nécessaires pour améliorer le deal actuel et répondre aux attentes du public ?",
+        "Comment les critiques de Burnham pourraient-elles influencer les prochaines élections et la direction politique du Royaume-Uni ?"
+      ],
+      "id": "8cca5cb82b81",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
+      "link": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article soulève des préoccupations sur l'impact des coûts de formation sur l'emploi des jeunes, un enjeu crucial dans le contexte économique actuel.",
+      "questions": [
+        "Comment l'augmentation des coûts de formation pour les travailleurs plus âgés pourrait-elle affecter l'accès à l'emploi pour les jeunes ?",
+        "Quelles alternatives pourraient être envisagées pour équilibrer les besoins de formation des différentes tranches d'âge ?",
+        "Quels sont les risques à long terme si la crise de l'emploi des jeunes n'est pas correctement adressée ?",
+        "Comment les entreprises peuvent-elles s'adapter pour soutenir à la fois les travailleurs plus âgés et les jeunes dans le marché du travail ?"
+      ],
+      "id": "94d26b648c69",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
+      "link": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+      "source": "Guardian Business",
+      "category": "ecologie",
+      "why_selected": "Cet article met en évidence les tensions politiques autour de l'exploitation pétrolière, un sujet crucial dans le débat sur l'écologie et l'économie.",
+      "questions": [
+        "Quels sont les arguments pour et contre l'exploitation du champ pétrolier de Rosebank ?",
+        "Comment la décision sur Rosebank pourrait-elle influencer la politique énergétique du Royaume-Uni à long terme ?",
+        "Quelles sont les conséquences environnementales potentielles de l'exploitation de nouveaux champs pétroliers ?",
+        "Comment les divisions au sein du cabinet peuvent-elles affecter la perception publique des politiques environnementales du gouvernement ?"
+      ],
+      "id": "2826b4fdeb21",
+      "reading_time": "1 min"
+    }
+  ]
+}
