@@ -1,0 +1,66 @@
+{
+  "week": "2026-W45",
+  "generated_at": "2026-11-02T14:30:02.298417",
+  "articles": [
+    {
+      "title": "Sales slump at UK’s largest brickmaker as housebuilding downturn deepens",
+      "link": "https://www.theguardian.com/business/2026/nov/02/uk-largest-brickmaker-sales-slump-housebuilding-downturn-deepens-ibstock",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière l'impact de la crise du logement sur l'industrie de la construction au Royaume-Uni, un enjeu économique majeur.",
+      "questions": [
+        "Quelles sont les causes sous-jacentes de la crise du logement au Royaume-Uni ?",
+        "Comment la baisse des ventes de briques affecte-t-elle l'économie locale et nationale ?",
+        "Quels pourraient être les effets à long terme d'un ralentissement dans le secteur de la construction ?",
+        "Comment le gouvernement pourrait-il intervenir pour soutenir le secteur du logement ?"
+      ],
+      "id": "e7ed8bba023a",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Millions in UK brace to remortgage on worse deals as rate rise looms",
+      "link": "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde les implications d'une hausse des taux d'intérêt sur les ménages britanniques, un sujet crucial pour la stabilité économique.",
+      "questions": [
+        "Comment une hausse des taux d'intérêt impacte-t-elle le pouvoir d'achat des ménages ?",
+        "Quelles stratégies les ménages peuvent-ils adopter pour faire face à l'augmentation des coûts de remortgage ?",
+        "Quels sont les risques économiques associés à un nombre croissant de ménages incapables de rembourser leurs prêts ?",
+        "Comment la politique monétaire de la Banque d'Angleterre influence-t-elle le marché immobilier ?"
+      ],
+      "id": "30a2bdad1acc",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
+      "link": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
+      "source": "Guardian Environment",
+      "category": "ecologie",
+      "why_selected": "Cet article illustre les actions directes prises par des ONG pour protéger l'environnement marin, un enjeu crucial face à la surpêche.",
+      "questions": [
+        "Quels sont les impacts environnementaux de la pêche industrielle sur les écosystèmes marins ?",
+        "Comment les actions de Greenpeace peuvent-elles influencer les politiques de pêche au niveau international ?",
+        "Quelles alternatives à la pêche industrielle pourraient être mises en avant pour préserver les ressources maritimes ?",
+        "Comment la sensibilisation du public peut-elle contribuer à la protection des zones marines ?"
+      ],
+      "id": "d4d320f0ed30",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+      "link": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article traite des tensions entre les compagnies aériennes et les syndicats, un sujet pertinent dans le contexte économique actuel marqué par la hausse des coûts.",
+      "questions": [
+        "Quelles sont les implications d'un gel des salaires pour les employés de Ryanair et leurs familles ?",
+        "Comment la hausse des coûts du carburant influence-t-elle la stratégie commerciale des compagnies aériennes ?",
+        "Quels sont les enjeux pour les syndicats face à des décisions de gestion telles que le gel des salaires ?",
+        "Comment les compagnies aériennes peuvent-elles équilibrer rentabilité et responsabilité sociale envers leurs employés ?"
+      ],
+      "id": "85707b84c2fa",
+      "reading_time": "1 min"
+    }
+  ]
+}
