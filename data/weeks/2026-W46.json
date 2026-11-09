@@ -1,0 +1,66 @@
+{
+  "week": "2026-W46",
+  "generated_at": "2026-11-09T14:53:41.699454",
+  "articles": [
+    {
+      "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+      "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière les défis financiers auxquels font face les entreprises de services publics, un sujet crucial dans le contexte économique actuel.",
+      "questions": [
+        "Quelles sont les implications d'une dette élevée pour une entreprise de services publics comme Thames Water ?",
+        "Comment la gestion de la dette peut-elle affecter la qualité des services fournis aux consommateurs ?",
+        "Quels pourraient être les impacts économiques plus larges si Thames Water ne parvient pas à rembourser sa dette ?",
+        "Comment les entreprises de services publics peuvent-elles se préparer à des crises financières similaires à l'avenir ?"
+      ],
+      "id": "b28b92132781",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "EU sues IBM and two European firms over troubled entry/exit border system",
+      "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article illustre les tensions entre les gouvernements et les entreprises technologiques, ainsi que les enjeux de la gestion des infrastructures critiques.",
+      "questions": [
+        "Quelles sont les conséquences d'un échec dans la mise en œuvre d'un système de gestion des frontières pour l'Union européenne ?",
+        "Comment les litiges entre gouvernements et entreprises peuvent-ils influencer la confiance du public dans les technologies de surveillance ?",
+        "Quels sont les défis auxquels sont confrontées les entreprises technologiques lorsqu'elles travaillent sur des projets gouvernementaux ?",
+        "Comment la transparence et la responsabilité peuvent-elles être améliorées dans les contrats entre le secteur public et privé ?"
+      ],
+      "id": "79b5adbb0281",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+      "link": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde la crise de l'emploi chez les jeunes, un enjeu crucial pour l'économie future et la cohésion sociale.",
+      "questions": [
+        "Quelles sont les causes profondes de la crise de l'emploi chez les jeunes au Royaume-Uni ?",
+        "Comment l'investissement dans l'emploi des jeunes peut-il influencer la croissance économique à long terme ?",
+        "Quels rôles les entreprises et les gouvernements devraient-ils jouer pour résoudre cette crise ?",
+        "Comment les politiques de soutien à l'emploi peuvent-elles être adaptées pour mieux répondre aux besoins des jeunes travailleurs ?"
+      ],
+      "id": "f44b7bd56ca0",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "UK households face rush to find green energy installer to beat April VAT hike",
+      "link": "https://www.theguardian.com/environment/2026/nov/09/uk-households-green-energy-installer-rush-april-vat-hike",
+      "source": "Guardian Business",
+      "category": "ecologie",
+      "why_selected": "Cet article souligne l'urgence de la transition énergétique et les défis économiques associés à l'adoption des technologies vertes.",
+      "questions": [
+        "Quelles sont les conséquences économiques d'une augmentation de la TVA sur les installations d'énergie verte pour les ménages ?",
+        "Comment les gouvernements peuvent-ils encourager une adoption plus rapide des technologies vertes malgré des obstacles financiers ?",
+        "Quels impacts environnementaux peuvent découler d'une adoption tardive des installations d'énergie verte par les ménages ?",
+        "Comment les entreprises d'installation peuvent-elles se préparer à une demande accrue en période de changement de politique fiscale ?"
+      ],
+      "id": "0baf45cf1fb7",
+      "reading_time": "1 min"
+    }
+  ]
+}
