@@ -1,0 +1,66 @@
+{
+  "week": "2026-W47",
+  "generated_at": "2026-11-16T14:29:36.223338",
+  "articles": [
+    {
+      "title": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
+      "link": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article met en lumière l'impact économique des projets d'énergie renouvelable au Royaume-Uni, soulignant l'importance de la transition énergétique.",
+      "questions": [
+        "Quelles sont les implications économiques de la dépendance accrue aux énergies renouvelables pour le Royaume-Uni ?",
+        "Comment les subventions gouvernementales influencent-elles le développement des projets d'énergie renouvelable ?",
+        "Quels pourraient être les effets à long terme de cette manne financière sur l'industrie énergétique britannique ?",
+        "Comment la montée des prix du marché affecte-t-elle la viabilité des projets d'énergie renouvelable ?"
+      ],
+      "id": "6944d8297068",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+      "link": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article aborde la crise de l'emploi chez les jeunes au Royaume-Uni, un enjeu crucial pour l'avenir économique du pays.",
+      "questions": [
+        "Quelles sont les causes profondes de la crise de l'emploi chez les jeunes au Royaume-Uni ?",
+        "Comment les politiques gouvernementales peuvent-elles être ajustées pour mieux soutenir les jeunes en recherche d'emploi ?",
+        "Quels rôles jouent les entreprises dans la création d'opportunités d'emploi pour les jeunes ?",
+        "Quelles conséquences sociales et économiques pourraient découler d'une inaction face à cette crise ?"
+      ],
+      "id": "cc5e8322e1c6",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Weakening UK electric vehicle targets would hurt car industry, ministers told",
+      "link": "https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told",
+      "source": "Guardian Business",
+      "category": "economie",
+      "why_selected": "Cet article souligne l'importance des objectifs de véhicules électriques pour l'industrie automobile britannique et leur impact sur l'économie et l'environnement.",
+      "questions": [
+        "Quels sont les enjeux économiques et environnementaux liés à la transition vers les véhicules électriques ?",
+        "Comment la réduction des objectifs de véhicules électriques pourrait-elle affecter la compétitivité de l'industrie automobile britannique ?",
+        "Quelles alternatives pourraient être envisagées si les objectifs actuels sont assouplis ?",
+        "Comment les consommateurs réagiraient-ils à un affaiblissement des normes sur les véhicules électriques ?"
+      ],
+      "id": "e35ad1fa677e",
+      "reading_time": "1 min"
+    },
+    {
+      "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "why_selected": "Cet article illustre les dynamiques de pouvoir dans le secteur technologique et l'importance des dirigeants dans les entreprises innovantes.",
+      "questions": [
+        "Quelles sont les implications d'un changement de direction dans une entreprise technologique majeure comme Nvidia ?",
+        "Comment la perception publique des dirigeants influence-t-elle la performance d'une entreprise ?",
+        "Quels facteurs peuvent conduire à une telle mobilisation du secteur technologique en faveur d'un dirigeant ?",
+        "Comment la situation de Nvidia pourrait-elle affecter l'ensemble du marché des semi-conducteurs ?"
+      ],
+      "id": "e89783003a68",
+      "reading_time": "1 min"
+    }
+  ]
+}
